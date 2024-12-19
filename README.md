@@ -46,7 +46,7 @@
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/mindiya-maitipe-475581268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mindiya-maitipe-475581268" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mindiya-maitipe-475581268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mindiya-maitipe-475581268/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mindiyamaitipe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mindiyamaitipe/" height="30" width="40" /></a>
 </p>
 <br>
