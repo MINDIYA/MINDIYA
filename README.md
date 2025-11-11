@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mindiya </h1>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MINDIYA&label=Profile%20views&color=0e75b6&style=flat" alt="MINDIYA" /> </p>
 
 - 🌱 I’m currently learning BEng (Hons) Software Engineering at University of Westminster
-- ⁠💬 Ask me about Java,Python,React,IOS
+- ⁠💬 Ask me about Python,REST API,Java,React,IOS
 - 📫 How to reach me: mindiyamaitipe@gmail.com
 - ⁠⚡ Fun fact: Just a simple guy
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
